@@ -1,0 +1,43 @@
+--- 
+dependencies: 
+  rails: 
+    group: 
+    - :default
+    version: = 2.3.8
+  mongrel: 
+    group: 
+    - :default
+    version: ">= 0"
+  mysql: 
+    group: 
+    - :default
+    version: ">= 0"
+specs: 
+- rake: 
+    version: 0.8.7
+- activesupport: 
+    version: 2.3.8
+- rack: 
+    version: 1.1.0
+- actionpack: 
+    version: 2.3.8
+- actionmailer: 
+    version: 2.3.8
+- activerecord: 
+    version: 2.3.8
+- activeresource: 
+    version: 2.3.8
+- daemons: 
+    version: 1.0.10
+- gem_plugin: 
+    version: 0.2.3
+- mongrel: 
+    version: 1.1.5.1
+- mysql: 
+    version: 2.8.1
+- rails: 
+    version: 2.3.8
+hash: 9209da2de997678e1d5d12e62e1c41b80c108504
+sources: 
+- Rubygems: 
+    uri: http://rubygems.org
